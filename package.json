@@ -16,8 +16,8 @@
   },
   "devDependencies": {
     "axe-core": "^4.10.3",
-    "cypress": "^14.4.1",
-    "cypress-axe": "^1.6.0",
+    "cypress": "^15.15.0",
+    "cypress-axe": "^1.7.0",
     "gulp": "^5.0.1",
     "gulp-if": "^3.0.0",
     "gulp-rename": "^2.0.0",
