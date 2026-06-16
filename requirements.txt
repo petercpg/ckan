@@ -90,7 +90,7 @@ polib==1.2.0
     # via -r requirements.in
 psycopg2==2.9.11
     # via -r requirements.in
-pyjwt==2.10.1
+pyjwt==2.13.0
     # via -r requirements.in
 pyparsing==3.2.5
     # via -r requirements.in
@@ -136,6 +136,7 @@ typing-extensions==4.15.0
     # via
     #   -r requirements.in
     #   alembic
+    #   pyjwt
     #   sqlalchemy
 tzlocal==5.3.1
     # via -r requirements.in
