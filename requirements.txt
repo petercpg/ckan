@@ -96,7 +96,7 @@ polib==1.2.0
     # via -r requirements.in
 psycopg2==2.9.12
     # via -r requirements.in
-pyjwt==2.13.0
+pyjwt==2.15.0
     # via -r requirements.in
 pyparsing==3.3.2
     # via -r requirements.in
